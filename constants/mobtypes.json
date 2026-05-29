@@ -1,0 +1,1419 @@
+{
+  "ABYSSAL_MINER": [
+    "AQUATIC",
+    "ELUSIVE",
+    "SUBTERRANEAN",
+    "UNDEAD"
+  ],
+  "AGARIMOO": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "ALLIGATOR": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "ANGRY_ARCHAEOLOGIST": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "APOSTLE": [
+    "UNDEAD",
+    "WITHER"
+  ],
+  "ARACHNE": [
+    "ARCANE",
+    "ARTHROPOD"
+  ],
+  "ARACHNE_BROOD": [
+    "ARTHROPOD"
+  ],
+  "ARACHNE_KEEPER": [
+    "ARTHROPOD"
+  ],
+  "ASHFANG": [
+    "ARCANE",
+    "INFERNAL"
+  ],
+  "AUTOMATON": [
+    "ARCANE",
+    "CONSTRUCT",
+    "SUBTERRANEAN"
+  ],
+  "BAL": [
+    "CUBIC",
+    "INFERNAL",
+    "SHIELDED"
+  ],
+  "BALD_BLAZE": [
+    "INFERNAL"
+  ],
+  "BANSHEE": [
+    "AQUATIC",
+    "HUMANOID"
+  ],
+  "BARBARIAN_DUKE_X": [
+    "ANIMAL",
+    "HUMANOID"
+  ],
+  "BAT_PINATA": [
+    "AIRBORNE",
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "BATTY_WITCH": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "BAYOU_SLUDGE": [
+    "AQUATIC",
+    "CUBIC"
+  ],
+  "BEETLE": [
+    "PEST"
+  ],
+  "BEZAL": [
+    "INFERNAL"
+  ],
+  "BIRRIES": [
+    "ANIMAL",
+    "WOODLAND"
+  ],
+  "BLADESOUL": [
+    "ARCANE",
+    "SKELETAL",
+    "WITHER"
+  ],
+  "BLAZE": [
+    "INFERNAL"
+  ],
+  "BLAZING_GOLEM": [
+    "CONSTRUCT",
+    "INFERNAL"
+  ],
+  "BLIGHT": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "BLUE_JERRY": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "BLUE_RINGED_OCTOPUS": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "BLUE_SHARK": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "BOGGED": [
+    "AQUATIC",
+    "SKELETAL"
+  ],
+  "BONZO": [
+    "ARCANE",
+    "HUMANOID",
+    "UNDEAD"
+  ],
+  "BOSS_CORLEONE": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "BUTTERFLY": [
+    "AIRBORNE",
+    "ARCANE",
+    "SUBTERRANEAN"
+  ],
+  "CARROT_KING": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "CATFISH": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "CAVE_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "CAVITAK": [
+    "ARTHROPOD"
+  ],
+  "CELLAR_SPIDER": [
+    "ARTHROPOD",
+    "SUBTERRANEAN"
+  ],
+  "CHAOSMITE": [
+    "ARCANE",
+    "ARTHROPOD",
+    "ENDER"
+  ],
+  "CHICKEN": [
+    "ANIMAL"
+  ],
+  "CHILLBLADE": [
+    "SKELETAL",
+    "WOODLAND"
+  ],
+  "CHILLSHOT": [
+    "SKELETAL",
+    "WOODLAND"
+  ],
+  "CINDERBAT": [
+    "AIRBORNE",
+    "ANIMAL",
+    "INFERNAL"
+  ],
+  "COW": [
+    "ANIMAL"
+  ],
+  "CRAZY_WITCH": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "CREEPER": [
+    "CUBIC"
+  ],
+  "CRETAN_BULL": [
+    "ANIMAL",
+    "MYTHOLOGICAL"
+  ],
+  "CRICKET": [
+    "PEST"
+  ],
+  "CRYPT_DREADLORD": [
+    "SUBTERRANEAN",
+    "UNDEAD",
+    "WITHER"
+  ],
+  "CRYPT_GHOUL": [
+    "UNDEAD"
+  ],
+  "CRYPT_LURKER": [
+    "UNDEAD"
+  ],
+  "CRYPT_SOULEATER": [
+    "SUBTERRANEAN",
+    "UNDEAD",
+    "WITHER"
+  ],
+  "CRYPT_TANK_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "CRYPT_UNDEAD": [
+    "SUBTERRANEAN",
+    "UNDEAD"
+  ],
+  "CRYPT_UNDEAD_ALEXANDER": [
+    "UNDEAD"
+  ],
+  "CRYPT_UNDEAD_BERNHARD": [
+    "UNDEAD"
+  ],
+  "CRYPT_UNDEAD_FRIEDRICH": [
+    "UNDEAD"
+  ],
+  "CRYPT_UNDEAD_MARIUS": [
+    "UNDEAD"
+  ],
+  "CRYPT_WITHERSKELETON": [
+    "SKELETAL",
+    "WITHER"
+  ],
+  "CRYSTAL_SENTRY": [
+    "ARCANE",
+    "CONSTRUCT",
+    "SHIELDED"
+  ],
+  "DASHER_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "DEEP_SEA_PROTECTOR": [
+    "AQUATIC",
+    "CONSTRUCT"
+  ],
+  "DIAMOND_GOBLIN": [
+    "ELUSIVE",
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "DIAMOND_GUY": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "DIAMOND_SKELETON": [
+    "SKELETAL"
+  ],
+  "DIAMOND_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "DIVE_GHAST": [
+    "AIRBORNE",
+    "CUBIC"
+  ],
+  "DRAGONFLY": [
+    "PEST"
+  ],
+  "DREADWING": [
+    "AIRBORNE",
+    "WOODLAND"
+  ],
+  "DROPSHIP": [
+    "AIRBORNE",
+    "ARCANE",
+    "CUBIC"
+  ],
+  "DUMPSTER_DIVER": [
+    "AQUATIC",
+    "HUMANOID"
+  ],
+  "DUNGEON_RESPAWNING_SKELETON": [
+    "SKELETAL"
+  ],
+  "DUNGEON_SECRET_BAT": [
+    "AIRBORNE",
+    "ANIMAL"
+  ],
+  "EARTHWORM": [
+    "PEST"
+  ],
+  "EMERALD_SLIME": [
+    "CUBIC"
+  ],
+  "END_STONE_PROTECTOR": [
+    "CONSTRUCT",
+    "ENDER"
+  ],
+  "ENDER_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "ENDERMAN": [
+    "ENDER"
+  ],
+  "ENDERMITE": [
+    "ARTHROPOD",
+    "ENDER"
+  ],
+  "ENT": [
+    "AQUATIC",
+    "WOODLAND"
+  ],
+  "EXPLOSIVE_IMP": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "FARMING_CHICKEN": [
+    "ANIMAL"
+  ],
+  "FARMING_COW": [
+    "ANIMAL"
+  ],
+  "FARMING_PIG": [
+    "ANIMAL"
+  ],
+  "FARMING_RABBIT": [
+    "ANIMAL"
+  ],
+  "FARMING_SHEEP": [
+    "ANIMAL"
+  ],
+  "FELS": [
+    "ARCANE"
+  ],
+  "FIELD_MOUSE": [
+    "ELUSIVE",
+    "PEST"
+  ],
+  "FIERY_SCUTTLER": [
+    "ANIMAL",
+    "ELUSIVE",
+    "MAGMATIC"
+  ],
+  "FIRE_BAT": [
+    "AIRBORNE",
+    "ANIMAL",
+    "INFERNAL"
+  ],
+  "FIRE_EEL": [
+    "ANIMAL",
+    "MAGMATIC"
+  ],
+  "FIRE_MAGE": [
+    "ARCANE",
+    "HUMANOID",
+    "INFERNAL"
+  ],
+  "FIREBALL_MAGMA_CUBE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "FIREFLY": [
+    "PEST"
+  ],
+  "FIREPROOF_WITCH": [
+    "ARCANE",
+    "HUMANOID",
+    "MAGMATIC"
+  ],
+  "FLAMING_SPIDER": [
+    "ARTHROPOD",
+    "INFERNAL"
+  ],
+  "FLAMING_WORM": [
+    "ARTHROPOD",
+    "MAGMATIC"
+  ],
+  "FLINT_SKELETON": [
+    "SKELETAL"
+  ],
+  "FLY": [
+    "PEST"
+  ],
+  "FRIED_CHICKEN": [
+    "ANIMAL",
+    "MAGMATIC"
+  ],
+  "FROG_MAN": [
+    "ANIMAL",
+    "AQUATIC",
+    "HUMANOID"
+  ],
+  "FROSTY": [
+    "AQUATIC",
+    "CONSTRUCT",
+    "FROZEN"
+  ],
+  "FROSTY_THE_SNOWMAN": [
+    "AQUATIC",
+    "CONSTRUCT",
+    "FROZEN"
+  ],
+  "FROZEN_ADVENTURER": [
+    "FROZEN",
+    "HUMANOID"
+  ],
+  "FROZEN_STEVE": [
+    "AQUATIC",
+    "FROZEN",
+    "HUMANOID"
+  ],
+  "GAIA_CONSTRUCT": [
+    "CONSTRUCT",
+    "MYTHOLOGICAL"
+  ],
+  "GENERATOR_GHAST": [
+    "AIRBORNE",
+    "CUBIC"
+  ],
+  "GENERATOR_MAGMA_CUBE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "GENERATOR_SLIME": [
+    "CUBIC"
+  ],
+  "GHAST": [
+    "AIRBORNE",
+    "CUBIC"
+  ],
+  "GHOST": [
+    "ARCANE",
+    "SUBTERRANEAN"
+  ],
+  "GLACITE_BOWMAN": [
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "GLACITE_CAVER": [
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "GLACITE_MAGE": [
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "GLACITE_MUTT": [
+    "ANIMAL",
+    "GLACIAL"
+  ],
+  "GLACITE_WALKER": [
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "GOBLIN": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_BATTLER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_CREEPER": [
+    "CUBIC"
+  ],
+  "GOBLIN_CREEPERTAMER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_FLAMETHROWER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_GOLEM": [
+    "CONSTRUCT",
+    "SHIELDED"
+  ],
+  "GOBLIN_KNIFE_THROWER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_MURDERLOVER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_WEAKLING_BOW": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOBLIN_WEAKLING_MELEE": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "GOLDEN_GHOUL": [
+    "UNDEAD"
+  ],
+  "GOLDEN_GOBLIN": [
+    "ELUSIVE",
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "GOLDEN_JERRY": [
+    "ELUSIVE",
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "GOLEM": [
+    "ARCANE",
+    "CONSTRUCT"
+  ],
+  "GRAVEYARD_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "GREAT_WHITE_SHARK": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "GREEN_JERRY": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "GRIM_REAPER": [
+    "AQUATIC",
+    "ARCANE",
+    "ELUSIVE",
+    "SPOOKY"
+  ],
+  "GRINCH": [
+    "AQUATIC",
+    "CONSTRUCT",
+    "FROZEN"
+  ],
+  "GRUNT": [
+    "HUMANOID"
+  ],
+  "GUARDIAN_DEFENDER": [
+    "AQUATIC",
+    "ARCANE"
+  ],
+  "HARPY": [
+    "ANIMAL",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "HEADLESS_HORSEMAN": [
+    "ANIMAL",
+    "SKELETAL",
+    "SPOOKY",
+    "UNDEAD"
+  ],
+  "HELLWISP": [
+    "CUBIC",
+    "INFERNAL",
+    "SUBTERRANEAN"
+  ],
+  "HOWLING_SPIRIT": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "HYDROSPEAR": [
+    "AQUATIC",
+    "UNDEAD",
+    "WOODLAND"
+  ],
+  "ICE_WALKER": [
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "INFERNO_DEMONLORD": [
+    "INFERNAL"
+  ],
+  "INFERNO_MAGMA_CUBE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "INTRO_BLAZE": [
+    "INFERNAL"
+  ],
+  "INVISIBLE_CREEPER": [
+    "CUBIC"
+  ],
+  "JOCKEY_SHOT_SILVERFISH": [
+    "ARTHROPOD"
+  ],
+  "JOCKEY_SKELETON": [
+    "SKELETAL"
+  ],
+  "JOYDIVE": [
+    "ANIMAL",
+    "AQUATIC",
+    "WOODLAND"
+  ],
+  "KADA_KNIGHT": [
+    "ANIMAL",
+    "UNDEAD"
+  ],
+  "KEY_GUARDIAN": [
+    "SUBTERRANEAN",
+    "UNDEAD"
+  ],
+  "KING_MIDAS": [
+    "HUMANOID"
+  ],
+  "KING_MINOS": [
+    "ELUSIVE",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "KRONDOR_NECROMANCER": [
+    "ARCANE",
+    "HUMANOID",
+    "INFERNAL"
+  ],
+  "KUUDRA": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "KUUDRA_BERSERKER": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "KUUDRA_FOLLOWER": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "KUUDRA_KNOCKER": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "KUUDRA_LANDMINE": [
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "KUUDRA_SLASHER": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "LAPIS_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "LAVA_BLAZE": [
+    "INFERNAL",
+    "MAGMATIC"
+  ],
+  "LAVA_FLAME": [
+    "INFERNAL",
+    "MAGMATIC"
+  ],
+  "LAVA_LEECH": [
+    "ARTHROPOD",
+    "MAGMATIC"
+  ],
+  "LAVA_PIGMAN": [
+    "MAGMATIC",
+    "UNDEAD"
+  ],
+  "LITTLEFOOT": [
+    "ELUSIVE",
+    "GLACIAL",
+    "HUMANOID"
+  ],
+  "LOCH_EMPEROR": [
+    "AQUATIC",
+    "ELUSIVE",
+    "SKELETAL"
+  ],
+  "LOCUST": [
+    "PEST"
+  ],
+  "LONELY_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "LORD_JAWBUS": [
+    "CONSTRUCT",
+    "ELUSIVE",
+    "MAGMATIC"
+  ],
+  "LOST_ADVENTURER": [
+    "ARCANE",
+    "HUMANOID"
+  ],
+  "LUNAR_MOTH": [
+    "ELUSIVE",
+    "PEST"
+  ],
+  "MAGE_OUTLAW": [
+    "ARCANE",
+    "HUMANOID"
+  ],
+  "MAGMA_BOSS": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "MAGMA_CUBE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "MAGMA_CUBE_RIDER": [
+    "CUBIC",
+    "INFERNAL",
+    "UNDEAD"
+  ],
+  "MAGMA_FOLLOWER": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "MAGMA_GLARE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "MAGMA_SLUG": [
+    "CUBIC",
+    "MAGMATIC"
+  ],
+  "MANTICORE": [
+    "ANIMAL",
+    "ELUSIVE",
+    "MYTHOLOGICAL"
+  ],
+  "MATCHO": [
+    "HUMANOID",
+    "INFERNAL"
+  ],
+  "MAYOR_JERRY_BLUE": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "MAYOR_JERRY_GOLDEN": [
+    "ELUSIVE",
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "MAYOR_JERRY_GREEN": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "MAYOR_JERRY_PURPLE": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "MEGA_BAT": [
+    "AIRBORNE",
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "MILLENNIAAGED_BLAZE": [
+    "INFERNAL",
+    "SUBTERRANEAN"
+  ],
+  "MIMIC": [
+    "ARCANE",
+    "CONSTRUCT",
+    "UNDEAD"
+  ],
+  "MINER_SKELETON": [
+    "SKELETAL"
+  ],
+  "MINER_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "MINOS_CHAMPION": [
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "MINOS_HUNTER": [
+    "HUMANOID",
+    "MYTHOLOGICAL",
+    "UNDEAD"
+  ],
+  "MINOS_INQUISITOR": [
+    "ELUSIVE",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "MINOTAUR": [
+    "ANIMAL",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "MITE": [
+    "PEST"
+  ],
+  "MOOGMA": [
+    "ANIMAL",
+    "MAGMATIC"
+  ],
+  "MOOSHROOM_COW": [
+    "ANIMAL"
+  ],
+  "MOOSHROOMMUSHROOM_COW": [
+    "ANIMAL"
+  ],
+  "MOSQUITO": [
+    "PEST"
+  ],
+  "MOTH": [
+    "PEST"
+  ],
+  "MUSHROOM_BULL": [
+    "ANIMAL"
+  ],
+  "MUSHROOM_COW": [
+    "ANIMAL"
+  ],
+  "MUTATED_BLAZE": [
+    "INFERNAL"
+  ],
+  "NESSIE": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "NEST_ENDERMITE": [
+    "ARTHROPOD",
+    "ENDER"
+  ],
+  "NIGHT_SQUID": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "NIGHTMARE": [
+    "AQUATIC",
+    "SPOOKY",
+    "UNDEAD"
+  ],
+  "NURSE_SHARK": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "NUTCRACKER": [
+    "AQUATIC",
+    "FROZEN",
+    "HUMANOID"
+  ],
+  "OASIS_RABBIT": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "OASIS_SHEEP": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "OBSIDIAN_DEFENDER": [
+    "ENDER",
+    "WITHER"
+  ],
+  "OLD_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "OLD_WOLF": [
+    "ANIMAL"
+  ],
+  "OMEGAGMA": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "PACK_MAGMA_CUBE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "PACK_SPIRIT": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "PHANFLARE": [
+    "AIRBORNE",
+    "WOODLAND"
+  ],
+  "PHANPYRE": [
+    "AIRBORNE",
+    "WOODLAND"
+  ],
+  "PHANTOM_FISHERMAN": [
+    "AQUATIC",
+    "ARCANE",
+    "ELUSIVE",
+    "SPOOKY"
+  ],
+  "PHANTOM_SPIRIT": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "PIG": [
+    "ANIMAL"
+  ],
+  "PIGMAN": [
+    "UNDEAD"
+  ],
+  "PLHLEGBLAST": [
+    "ANIMAL",
+    "ELUSIVE",
+    "MAGMATIC"
+  ],
+  "POND_SQUID": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "POWDER_GHAST": [
+    "AIRBORNE",
+    "CUBIC",
+    "SHIELDED"
+  ],
+  "PRAYING_MANTIS": [
+    "PEST"
+  ],
+  "PROTECTOR_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "PURPLE_JERRY": [
+    "HUMANOID",
+    "SHIELDED"
+  ],
+  "PYROCLASTIC_WORM": [
+    "CUBIC",
+    "MAGMATIC"
+  ],
+  "RABBIT": [
+    "ANIMAL"
+  ],
+  "RAGNAROK": [
+    "ELUSIVE",
+    "MAGMATIC",
+    "SKELETAL"
+  ],
+  "RAIN_SLIME": [
+    "CUBIC"
+  ],
+  "RANDOM_SLIME": [
+    "CUBIC"
+  ],
+  "RAT": [
+    "ANIMAL",
+    "PEST"
+  ],
+  "REDSTONE_PIGMAN": [
+    "UNDEAD"
+  ],
+  "REINDRAKE": [
+    "AIRBORNE",
+    "ELUSIVE",
+    "FROZEN",
+    "SHIELDED"
+  ],
+  "RESPAWNING_SKELETON": [
+    "SKELETAL"
+  ],
+  "REVENANT_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "RIDER_OF_THE_DEEP": [
+    "ANIMAL",
+    "AQUATIC",
+    "UNDEAD"
+  ],
+  "RUIN_WOLF": [
+    "ANIMAL"
+  ],
+  "SCARECROW": [
+    "AQUATIC",
+    "SPOOKY"
+  ],
+  "SCARED_SKELETON": [
+    "SKELETAL"
+  ],
+  "SCARY_JERRY": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "SCATHA": [
+    "ELUSIVE",
+    "SHIELDED",
+    "SUBTERRANEAN"
+  ],
+  "SEA_ARCHER": [
+    "AQUATIC",
+    "SKELETAL"
+  ],
+  "SEA_GUARDIAN": [
+    "AQUATIC",
+    "ARCANE"
+  ],
+  "SEA_LEECH": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "SEA_WALKER": [
+    "AQUATIC",
+    "UNDEAD"
+  ],
+  "SEA_WITCH": [
+    "AQUATIC",
+    "ARCANE",
+    "HUMANOID"
+  ],
+  "SEACURSE": [
+    "AQUATIC",
+    "UNDEAD",
+    "WOODLAND"
+  ],
+  "SEER": [
+    "ENDER"
+  ],
+  "SHADOW_ASSASSIN": [
+    "ARCANE",
+    "HUMANOID"
+  ],
+  "SHEEP": [
+    "ANIMAL"
+  ],
+  "SHELLWISE": [
+    "ANIMAL",
+    "AQUATIC",
+    "WOODLAND"
+  ],
+  "SHINY_PIG": [
+    "ANIMAL"
+  ],
+  "SIAMESE_LYNX": [
+    "ANIMAL",
+    "MYTHOLOGICAL"
+  ],
+  "SKELETON": [
+    "SKELETAL"
+  ],
+  "SKELETON_GRUNT": [
+    "SKELETAL"
+  ],
+  "SKELETON_LORD": [
+    "SKELETAL"
+  ],
+  "SKELETON_MASTER": [
+    "SKELETAL"
+  ],
+  "SKELETON_SOLDIER": [
+    "SKELETAL"
+  ],
+  "SKELETOR": [
+    "CONSTRUCT",
+    "SKELETAL"
+  ],
+  "SLEEPING_GOLEM": [
+    "ARCANE",
+    "CONSTRUCT"
+  ],
+  "SLIME": [
+    "CUBIC"
+  ],
+  "SLUDGE": [
+    "CUBIC",
+    "SUBTERRANEAN"
+  ],
+  "SLUG": [
+    "PEST"
+  ],
+  "SMOLDERING_BLAZE": [
+    "INFERNAL",
+    "SUBTERRANEAN"
+  ],
+  "SNAPPING_TURTLE": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "SNEAKY_CREEPER": [
+    "CUBIC"
+  ],
+  "SNIPER": [
+    "SKELETAL",
+    "UNDEAD"
+  ],
+  "SNIPER_SKELETON": [
+    "SKELETAL",
+    "UNDEAD"
+  ],
+  "SOUL_OF_THE_ALPHA": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPECIAL_ZEALOT": [
+    "ELUSIVE",
+    "ENDER"
+  ],
+  "SPHINX": [
+    "ELUSIVE",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "SPIDER": [
+    "ARTHROPOD"
+  ],
+  "SPIDER_JOCKEY": [
+    "ARTHROPOD",
+    "SKELETAL"
+  ],
+  "SPIKE": [
+    "ANIMAL",
+    "AQUATIC",
+    "WOODLAND"
+  ],
+  "SPIRIT_BAT": [
+    "AIRBORNE",
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPIRIT_BEAR": [
+    "ANIMAL"
+  ],
+  "SPIRIT_BULL": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPIRIT_CHICKEN": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPIRIT_RABBIT": [
+    "ANIMAL"
+  ],
+  "SPIRIT_SHEEP": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPIRIT_WOLF": [
+    "ANIMAL",
+    "ARCANE"
+  ],
+  "SPLITTER_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "SPLITTER_SPIDER_SILVERFISH": [
+    "ARTHROPOD"
+  ],
+  "SQUID": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "STAR_SENTRY": [
+    "ARCANE",
+    "CONSTRUCT",
+    "SHIELDED"
+  ],
+  "STRANDED_NYMPH": [
+    "AQUATIC",
+    "HUMANOID",
+    "MYTHOLOGICAL"
+  ],
+  "STRIDERSURFER": [
+    "MAGMATIC",
+    "UNDEAD",
+    "WOODLAND"
+  ],
+  "STRONG_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "SUPER_ARCHER": [
+    "SKELETAL"
+  ],
+  "SUPER_TANK_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "SUPERIOR_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "SVEN_PACKMASTER": [
+    "ANIMAL"
+  ],
+  "TADGANG_FROG": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "TANK_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "TAURUS": [
+    "ANIMAL",
+    "HUMANOID",
+    "INFERNAL",
+    "MAGMATIC"
+  ],
+  "TEAM_TREASURITE_CORLEONE": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "TEAM_TREASURITE_GRUNT": [
+    "HUMANOID"
+  ],
+  "TEAM_TREASURITE_SEBASTIAN": [
+    "HUMANOID"
+  ],
+  "TEAM_TREASURITE_VIPER": [
+    "HUMANOID"
+  ],
+  "TEAM_TREASURITE_WENDY": [
+    "HUMANOID"
+  ],
+  "TENTACLE": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "TERRACOTTA": [
+    "ARCANE",
+    "CONSTRUCT"
+  ],
+  "THE_LOCH_EMPEROR": [
+    "AQUATIC",
+    "ARCANE",
+    "SKELETAL"
+  ],
+  "THE_WATCHER": [
+    "ARCANE"
+  ],
+  "THORN": [
+    "ARCANE",
+    "CUBIC"
+  ],
+  "THUNDER": [
+    "ARCANE",
+    "ELUSIVE",
+    "MAGMATIC"
+  ],
+  "THYST": [
+    "ARTHROPOD",
+    "SUBTERRANEAN"
+  ],
+  "TIDETOT": [
+    "AQUATIC",
+    "UNDEAD",
+    "WOODLAND"
+  ],
+  "TIGER_SHARK": [
+    "ANIMAL",
+    "AQUATIC"
+  ],
+  "TITANOBOA": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "TRAPPER_COW": [
+    "ANIMAL"
+  ],
+  "TRAPPER_PIG": [
+    "ANIMAL"
+  ],
+  "TRAPPER_RABBIT": [
+    "ANIMAL"
+  ],
+  "TREASURE_HOARDER": [
+    "HUMANOID",
+    "SUBTERRANEAN"
+  ],
+  "TRICK_OR_TREATER": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "UNBURRIED_ZOMBIE": [
+    "UNDEAD"
+  ],
+  "UNDEAD": [
+    "UNDEAD"
+  ],
+  "UNDEAD_SKELETON": [
+    "SKELETAL",
+    "UNDEAD"
+  ],
+  "UNSTABLE_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "UNSTABLE_MAGMA": [
+    "CUBIC",
+    "INFERNAL"
+  ],
+  "VANQUISHER": [
+    "ELUSIVE",
+    "WITHER"
+  ],
+  "VITTOMITE": [
+    "ARTHROPOD",
+    "ENDER"
+  ],
+  "VOIDGLOOM_SERAPH": [
+    "ENDER"
+  ],
+  "VOIDLING": [
+    "ENDER"
+  ],
+  "VOIDLING_EXTREMIST": [
+    "ENDER"
+  ],
+  "VOIDLING_FANATIC": [
+    "ENDER"
+  ],
+  "VORACIOUS_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "WATER_HYDRA": [
+    "ANIMAL",
+    "AQUATIC",
+    "ELUSIVE"
+  ],
+  "WEAVER_SPIDER": [
+    "ARTHROPOD"
+  ],
+  "WEREWOLF": [
+    "ANIMAL",
+    "AQUATIC",
+    "SPOOKY"
+  ],
+  "WETWING_CHICKEN": [
+    "ANIMAL",
+    "AQUATIC",
+    "UNDEAD"
+  ],
+  "WIKI_TIKI": [
+    "AQUATIC",
+    "CONSTRUCT",
+    "ELUSIVE"
+  ],
+  "WISE_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "WITCH": [
+    "ARCANE",
+    "HUMANOID"
+  ],
+  "WITHER_GOURD": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "WITHER_GUARD": [
+    "SKELETAL",
+    "WITHER"
+  ],
+  "WITHER_MINER": [
+    "SKELETAL",
+    "WITHER"
+  ],
+  "WITHER_SENTRY": [
+    "CONSTRUCT",
+    "WITHER"
+  ],
+  "WITHER_SKELETON": [
+    "SKELETAL",
+    "WITHER"
+  ],
+  "WITHER_SPECTRE": [
+    "ARCANE",
+    "WITHER"
+  ],
+  "WITHERMANCER": [
+    "ARCANE",
+    "SKELETAL",
+    "WITHER"
+  ],
+  "WOKE_GOLEM": [
+    "ARCANE",
+    "CONSTRUCT"
+  ],
+  "WOLF": [
+    "ANIMAL"
+  ],
+  "WORM": [
+    "SHIELDED",
+    "SUBTERRANEAN"
+  ],
+  "WRAITH": [
+    "SHIELDED",
+    "SPOOKY"
+  ],
+  "YETI": [
+    "AQUATIC",
+    "ELUSIVE",
+    "FROZEN"
+  ],
+  "YOG": [
+    "CUBIC",
+    "INFERNAL",
+    "SUBTERRANEAN"
+  ],
+  "YOUNG_DRAGON": [
+    "AIRBORNE",
+    "ARCANE",
+    "ENDER"
+  ],
+  "ZEALOT_BRUISER": [
+    "ENDER"
+  ],
+  "ZEALOT_ENDERMAN": [
+    "ENDER"
+  ],
+  "ZOMBIE": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_COMMANDER": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_DEEP": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_GRUNT": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_KNIGHT": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_LORD": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_SOLDIER": [
+    "UNDEAD"
+  ],
+  "ZOMBIE_VILLAGER": [
+    "UNDEAD"
+  ]
+}
